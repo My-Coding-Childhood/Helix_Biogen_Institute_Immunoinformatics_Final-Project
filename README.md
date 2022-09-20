@@ -1,1 +1,4 @@
 # Helix_Biogen_Institute_Immunoinformatics_Final-Project
+Topic: Design of a hypothetical vaccine to target BRCA1 gene mutations.
+
+BRCA1 mutations have been associated with the risk of developing breast and ovarian cancer. The aim of this project was to design a novel vaccine construct against BRCA1 gene mutation by combination of highly immunogenic epitopes and suitable adjuvants and linkers. I retrieved the tumor proteome, checked the physical and chemical properties of the tumor proteins, predicted B-cells, cytotoxic T-lymphocytes, helper T-lymphocytes, antigenicity, allergenicity, toxicity, and population coverage. I then proceeded to construct the vaccine (which I called BRCA1 VACC), predicted its structure and docked it with TLR3 and TLR4. I believe that this project will be useful to researchers and pharmaceutical companies to work on and develop a potent vaccine that will be used to arrest breast cancer in the future.
